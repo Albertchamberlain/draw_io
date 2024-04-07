@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T08:58:02.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tzvar5wh_xl-JBYSTktz" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T08:59:12.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5QSXQ7na_2HZnEm2nV02" version="24.2.2" type="github">
   <diagram name="第 1 页" id="b8dV7GRzmGHM_8BWf8Px">
     <mxGraphModel dx="2449" dy="1103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="3hc9Wql1k8_KAw12km71-48" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="27" y="1861" width="793" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="nOKsNRwwLbylZCtbTeqc-1" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;ASDD&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nOKsNRwwLbylZCtbTeqc-1" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;MSDD&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-38" y="439.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nOKsNRwwLbylZCtbTeqc-20" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="QOxDj5zbQoM1X1i0avKn-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
           <mxGeometry x="878" y="197" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="QOxDj5zbQoM1X1i0avKn-15" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;Multi-Scale Deformable Dysample&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1002" y="83.5" width="251" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
