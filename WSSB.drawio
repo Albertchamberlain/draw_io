@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T06:08:27.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hnNfepyT6FWJRM7wioEc" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T06:08:42.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zDj1_raH4ssOdj1nwzv9" version="24.2.2" type="github">
   <diagram name="第 1 页" id="b8dV7GRzmGHM_8BWf8Px">
     <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,9 +10,9 @@
             <mxPoint x="830" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3hc9Wql1k8_KAw12km71-2" value="Network Arch&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hc9Wql1k8_KAw12km71-1">
+        <mxCell id="3hc9Wql1k8_KAw12km71-2" value="Network Architecture" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hc9Wql1k8_KAw12km71-1">
           <mxGeometry x="-0.0984" relative="1" as="geometry">
-            <mxPoint x="26" as="offset" />
+            <mxPoint x="40" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
