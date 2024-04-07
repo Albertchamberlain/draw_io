@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T06:08:42.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zDj1_raH4ssOdj1nwzv9" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T06:10:56.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6Yma6CYv0OgVmMMFHQo3" version="24.2.2" type="github">
   <diagram name="第 1 页" id="b8dV7GRzmGHM_8BWf8Px">
-    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,6 +11,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3hc9Wql1k8_KAw12km71-2" value="Network Architecture" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hc9Wql1k8_KAw12km71-1">
+          <mxGeometry x="-0.0984" relative="1" as="geometry">
+            <mxPoint x="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hc9Wql1k8_KAw12km71-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="560" as="sourcePoint" />
+            <mxPoint x="830" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hc9Wql1k8_KAw12km71-4" value="Multi-Scale Deformable Dysample" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hc9Wql1k8_KAw12km71-3">
           <mxGeometry x="-0.0984" relative="1" as="geometry">
             <mxPoint x="40" as="offset" />
           </mxGeometry>
