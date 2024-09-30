@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="63" y="85" width="952" height="707" as="geometry" />
+          <mxGeometry x="63" y="85" width="404" height="454" as="geometry" />
         </mxCell>
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="gxb3YtXBHtRbfXQBGh1x-3" target="gxb3YtXBHtRbfXQBGh1x-7">
           <mxGeometry relative="1" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="gxb3YtXBHtRbfXQBGh1x-4" target="gxb3YtXBHtRbfXQBGh1x-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-17" value="&lt;font face=&quot;Georgia&quot;&gt;使用脚本convert_checkpoints.py或quantize.py,将多种外部格式的模型转为TRT-LLM定义的checkpoint格式。这一步确定了logic层面的参数。&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;H1mTjM_NjgeySvcvMKn4&quot;&gt;- 量化方式&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;H1mTjM_NjgeySvcvMKn4&quot;&gt;- 并行方式&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;H1mTjM_NjgeySvcvMKn4&quot;&gt;......&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="411" width="131" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
