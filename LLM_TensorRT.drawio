@@ -31,7 +31,7 @@
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-6" value="&lt;font face=&quot;Georgia&quot;&gt;JAX&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="98" y="319" width="111" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gxb3YtXBHtRbfXQBGh1x-7" value="&lt;font face=&quot;Georgia&quot;&gt;TRT-LLM Checkpoints&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-7" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;TRT-LLM Checkpoints&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="315" y="214" width="119" height="57" as="geometry" />
         </mxCell>
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="gxb3YtXBHtRbfXQBGh1x-4" target="gxb3YtXBHtRbfXQBGh1x-7">
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-20" value="&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;使用trtllm-build命令，将checkpoints转化为TesnsorRT Engine并加以优化。这一步确定了物理实现层面的参数：&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- max_batch_size&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- max_input_len&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- max_output_len&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- max_beam_input&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- plugin_config&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;&lt;i&gt;......&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;&lt;i&gt;Attention：大量的自动优化发生在这一步，,优化与特定参数，特定硬件平台紧密相关，不建议跨场景，跨平台混用&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="663.5" y="413" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-21" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;TRT-LLM Engines&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="707" y="214" width="119" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
