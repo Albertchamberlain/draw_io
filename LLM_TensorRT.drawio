@@ -7,17 +7,20 @@
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="63" y="85" width="722" height="344" as="geometry" />
         </mxCell>
-        <mxCell id="gxb3YtXBHtRbfXQBGh1x-3" value="HuggingFace" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-3" value="&lt;font face=&quot;Georgia&quot;&gt;HuggingFace&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="96" y="130" width="111" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gxb3YtXBHtRbfXQBGh1x-4" value="NeMo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-4" value="&lt;font face=&quot;Georgia&quot;&gt;NeMo&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="96" y="193" width="111" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gxb3YtXBHtRbfXQBGh1x-5" value="AMMO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-5" value="&lt;font face=&quot;Georgia&quot;&gt;AMMO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="98" y="256" width="111" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gxb3YtXBHtRbfXQBGh1x-6" value="JAX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-6" value="&lt;font face=&quot;Georgia&quot;&gt;JAX&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="98" y="319" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-7" value="&lt;font face=&quot;Georgia&quot;&gt;TRT-LLM Checkpoints&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="215" width="119" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
