@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="Dnxth_gKGoHQhTlkixaQ">
-    <mxGraphModel dx="1572" dy="1314" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="881" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-32" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;Your Own App&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="1214.5" y="344" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-33" value="&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;使用C++/Python API做二次开发。TensorRT-LLM内置了若干工具，也可作为二次开发的参考：&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;gxJNCz7kMzl2N45EjSzo&quot;&gt;- summarize.py 做文本总结&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;gxJNCz7kMzl2N45EjSzo&quot;&gt;- mmlu.py做准确度测试&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;gxJNCz7kMzl2N45EjSzo&quot;&gt;run.py运行一次推理验证模型可行性&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;gxJNCz7kMzl2N45EjSzo&quot;&gt;运行时可选项：&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;gxJNCz7kMzl2N45EjSzo&quot;&gt;- temperature&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;gxJNCz7kMzl2N45EjSzo&quot;&gt;- top K&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;gxJNCz7kMzl2N45EjSzo&quot;&gt;- top P&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1146" y="455" width="273" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
