@@ -7,7 +7,7 @@
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="36" y="-79" width="1470" height="648" as="geometry" />
         </mxCell>
-        <mxCell id="gxb3YtXBHtRbfXQBGh1x-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="63" y="85" width="404" height="454" as="geometry" />
         </mxCell>
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="gxb3YtXBHtRbfXQBGh1x-3" target="gxb3YtXBHtRbfXQBGh1x-7">
@@ -40,7 +40,7 @@
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-17" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;&lt;i&gt;使用脚本convert_checkpoints.py或quantize.py,将多种外部格式的模型转为TRT-LLM定义的checkpoint格式。这一步确定了logic层面的参数。&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;H1mTjM_NjgeySvcvMKn4&quot;&gt;&lt;b&gt;&lt;i&gt;- 量化方式&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;H1mTjM_NjgeySvcvMKn4&quot;&gt;&lt;b&gt;&lt;i&gt;- 并行方式&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;H1mTjM_NjgeySvcvMKn4&quot;&gt;&lt;b&gt;&lt;i&gt;......&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="199.5" y="431" width="131" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gxb3YtXBHtRbfXQBGh1x-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="562" y="85" width="404" height="454" as="geometry" />
         </mxCell>
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-20" value="&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;使用trtllm-build命令，将checkpoints转化为TesnsorRT Engine并加以优化。这一步确定了物理实现层面的参数：&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- max_batch_size&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- max_input_len&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- max_output_len&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- max_beam_input&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Georgia&quot;&gt;- plugin_config&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;&lt;i&gt;......&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;&lt;i&gt;Attention：大量的自动优化发生在这一步，,优化与特定参数，特定硬件平台紧密相关，不建议跨场景，跨平台混用&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gxb3YtXBHtRbfXQBGh1x-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="gxb3YtXBHtRbfXQBGh1x-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1061" y="88" width="404" height="454" as="geometry" />
         </mxCell>
         <mxCell id="gxb3YtXBHtRbfXQBGh1x-26" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;TRT-LLM Summary&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
