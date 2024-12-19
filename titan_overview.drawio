@@ -95,10 +95,10 @@
           <mxGeometry x="342" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="08xoC1FxWN-cvQ--sJ04-32" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="551" y="81" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="79" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="08xoC1FxWN-cvQ--sJ04-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="76" width="120" height="60" as="geometry" />
+        <mxCell id="08xoC1FxWN-cvQ--sJ04-33" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="767" y="79" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
