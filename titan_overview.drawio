@@ -118,6 +118,12 @@
             <mxPoint x="867" y="146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="08xoC1FxWN-cvQ--sJ04-37" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="443" y="256" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08xoC1FxWN-cvQ--sJ04-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Prediction&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431" y="198" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
