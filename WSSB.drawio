@@ -78,7 +78,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOxDj5zbQoM1X1i0avKn-6" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;WSSM&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="QOxDj5zbQoM1X1i0avKn-6" value="&lt;span style=&quot;caret-color: rgb(184, 191, 198); color: rgb(184, 191, 198); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; orphans: 4; text-align: start; white-space-collapse: preserve; background-color: rgb(54, 59, 64);&quot;&gt;Quadrangle Attention&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="353" y="228" width="192" height="277" as="geometry" />
         </mxCell>
         <mxCell id="QOxDj5zbQoM1X1i0avKn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" parent="1" source="QOxDj5zbQoM1X1i0avKn-8" edge="1">
