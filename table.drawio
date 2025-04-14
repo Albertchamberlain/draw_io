@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NRJpqdC6eGJBBTWSk-TN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRJpqdC6eGJBBTWSk-TN-1" target="NRJpqdC6eGJBBTWSk-TN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NRJpqdC6eGJBBTWSk-TN-1" value="RGB图像&lt;div&gt;（HxWx3）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -13,20 +16,32 @@
         <mxCell id="NRJpqdC6eGJBBTWSk-TN-3" value="点云投影&lt;div&gt;球面投影&lt;/div&gt;&lt;div&gt;采样&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NRJpqdC6eGJBBTWSk-TN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRJpqdC6eGJBBTWSk-TN-4" target="NRJpqdC6eGJBBTWSk-TN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRJpqdC6eGJBBTWSk-TN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRJpqdC6eGJBBTWSk-TN-4" target="NRJpqdC6eGJBBTWSk-TN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NRJpqdC6eGJBBTWSk-TN-4" value="距离图D&lt;div&gt;（HxWx1）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NRJpqdC6eGJBBTWSk-TN-5" value="坐标图XYZ&lt;div&gt;（HxWx3）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NRJpqdC6eGJBBTWSk-TN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRJpqdC6eGJBBTWSk-TN-6" target="NRJpqdC6eGJBBTWSk-TN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NRJpqdC6eGJBBTWSk-TN-6" value="六通道&lt;div&gt;RGB+XYZ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="614" y="318" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRJpqdC6eGJBBTWSk-TN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRJpqdC6eGJBBTWSk-TN-7" target="NRJpqdC6eGJBBTWSk-TN-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NRJpqdC6eGJBBTWSk-TN-7" value="4通道融合&lt;div&gt;RGB+D&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="614" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NRJpqdC6eGJBBTWSk-TN-8" value="融合后的特征" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="780" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="774" y="245" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
