@@ -95,13 +95,13 @@
         <mxCell id="QOxDj5zbQoM1X1i0avKn-11" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;ASDD&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="311" y="558.5" width="117" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="QOxDj5zbQoM1X1i0avKn-12" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 14px;&quot;&gt;WSSM&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="QOxDj5zbQoM1X1i0avKn-12" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 14px;&quot;&gt;QA&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="311" y="615.5" width="118" height="54" as="geometry" />
         </mxCell>
         <mxCell id="QOxDj5zbQoM1X1i0avKn-15" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;Multi-Scale Deformable Dysample&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="447" y="566.69" width="320" height="26.62" as="geometry" />
         </mxCell>
-        <mxCell id="QOxDj5zbQoM1X1i0avKn-16" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;Wave&amp;nbsp;State-Space-Model&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="QOxDj5zbQoM1X1i0avKn-16" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Quadrangle Attention&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="389" y="624.75" width="373" height="53.75" as="geometry" />
         </mxCell>
         <mxCell id="QOxDj5zbQoM1X1i0avKn-17" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;font face=&quot;Georgia&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;LFCS&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
