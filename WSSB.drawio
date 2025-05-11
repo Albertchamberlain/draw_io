@@ -200,6 +200,15 @@
         <mxCell id="TAhcS3-Ls1-ZeYXJuDh5-28" value="&lt;span style=&quot;font-family: Georgia; font-size: 24px;&quot;&gt;Linear&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="792.5" y="1083" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TAhcS3-Ls1-ZeYXJuDh5-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="524" y="709" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAhcS3-Ls1-ZeYXJuDh5-30" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 34px; color: rgb(153, 13, 22);&quot;&gt;&lt;i style=&quot;&quot;&gt;Relu&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="496" y="1011" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAhcS3-Ls1-ZeYXJuDh5-31" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px;&quot;&gt;Linear&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="792.5" y="996" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
