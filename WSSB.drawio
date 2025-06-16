@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5">
   <diagram name="第 1 页" id="b8dV7GRzmGHM_8BWf8Px">
-    <mxGraphModel dx="2080" dy="856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2537" dy="1161" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,7 +240,7 @@
           <mxGeometry x="470.38" y="999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99CCFF;strokeWidth=7;" vertex="1" parent="1">
-          <mxGeometry x="1239" y="1114" width="705" height="430" as="geometry" />
+          <mxGeometry x="1203" y="940" width="770" height="498" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="hegEyA6A5dteqGJDnN1d-5" target="hegEyA6A5dteqGJDnN1d-8">
           <mxGeometry relative="1" as="geometry" />
@@ -255,40 +255,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-5" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;i&gt;FeatureMapIn&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;i&gt;输入特征图&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=3;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1279" y="1340" width="107" height="101.5" as="geometry" />
+          <mxGeometry x="1268" y="1149" width="107" height="101.5" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-6" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;i&gt;FeatureMapOut&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;&lt;i&gt;输出特征图&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=3;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1804" y="1341" width="109" height="100.5" as="geometry" />
+          <mxGeometry x="1793" y="1150" width="109" height="100.5" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="hegEyA6A5dteqGJDnN1d-8" target="hegEyA6A5dteqGJDnN1d-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Georgia&quot;&gt;LL&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Georgia&quot;&gt;低频&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1524" y="1253" width="120" height="60" as="geometry" />
+          <mxGeometry x="1513" y="1062" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;strokeWidth=4;" edge="1" parent="1" source="hegEyA6A5dteqGJDnN1d-9" target="hegEyA6A5dteqGJDnN1d-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-9" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Georgia&quot;&gt;&lt;b&gt;LH&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Georgia&quot;&gt;&lt;b&gt;水平高频&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1527" y="1321" width="120" height="60" as="geometry" />
+          <mxGeometry x="1516" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;strokeWidth=4;" edge="1" parent="1" source="hegEyA6A5dteqGJDnN1d-10" target="hegEyA6A5dteqGJDnN1d-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-10" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Georgia&quot;&gt;&lt;b&gt;HL&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;垂直高频&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1527" y="1393" width="120" height="60" as="geometry" />
+          <mxGeometry x="1516" y="1202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="hegEyA6A5dteqGJDnN1d-11" target="hegEyA6A5dteqGJDnN1d-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-11" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Georgia&quot;&gt;&lt;b&gt;HH&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;对角高频&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f9f7ed;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1527" y="1465" width="120" height="60" as="geometry" />
+          <mxGeometry x="1516" y="1274" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Georgia&quot;&gt;小波分解&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1405" y="1375" width="60" height="30" as="geometry" />
+          <mxGeometry x="1394" y="1184" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-22" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;小波池化层&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;WPL&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1519.25" y="1132" width="129.5" height="77" as="geometry" />
+          <mxGeometry x="1511.25" y="971" width="129.5" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
