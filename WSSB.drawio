@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5">
   <diagram name="第 1 页" id="b8dV7GRzmGHM_8BWf8Px">
-    <mxGraphModel dx="2151" dy="903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3502" dy="1807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,8 +284,8 @@
         <mxCell id="hegEyA6A5dteqGJDnN1d-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Georgia&quot;&gt;小波分解&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1394" y="1184" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hegEyA6A5dteqGJDnN1d-22" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;小波池化层&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;WPL&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1511.25" y="971" width="129.5" height="77" as="geometry" />
+        <mxCell id="hegEyA6A5dteqGJDnN1d-22" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;小波池化层&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;WPL&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1511.25" y="971" width="187.75" height="77" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-488.87" y="954.75" width="703" height="491" as="geometry" />
@@ -293,8 +293,8 @@
         <mxCell id="hegEyA6A5dteqGJDnN1d-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Georgia&quot;&gt;&lt;i&gt;背景/非关注区域&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="26" y="1399" width="133" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hegEyA6A5dteqGJDnN1d-25" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Georgia&quot;&gt;&lt;b style=&quot;&quot;&gt;特征图 Feature Map&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-243.75" y="978" width="175.5" height="30" as="geometry" />
+        <mxCell id="hegEyA6A5dteqGJDnN1d-25" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Georgia&quot;&gt;&lt;b style=&quot;&quot;&gt;特征图 Feature Map&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-243.75" y="978" width="273.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=5;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-426" y="1163" width="346" height="163" as="geometry" />
@@ -326,8 +326,8 @@
         <mxCell id="hegEyA6A5dteqGJDnN1d-35" value="可学习变换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff3333, #ededed);labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-291.5" y="1122" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hegEyA6A5dteqGJDnN1d-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;自适应四边形窗口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff3333, #ededed);labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-24" y="1197" width="159" height="70" as="geometry" />
+        <mxCell id="hegEyA6A5dteqGJDnN1d-37" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;自适应四边形窗口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff3333, #ededed);labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-24" y="1197" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=11;shape=mxgraph.lean_mapping.physical_pull;pointerEvents=1;rotation=30;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="-394.87" y="1119" width="108" height="103" as="geometry" />
