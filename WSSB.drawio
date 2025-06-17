@@ -299,8 +299,8 @@
         <mxCell id="hegEyA6A5dteqGJDnN1d-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=5;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-426" y="1163" width="346" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="hegEyA6A5dteqGJDnN1d-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Georgia&quot;&gt;传统矩阵窗口&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-409.87" y="1318" width="138" height="64" as="geometry" />
+        <mxCell id="hegEyA6A5dteqGJDnN1d-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Georgia&quot;&gt;传统矩阵窗口&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-409.87" y="1318" width="175.87" height="64" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Georgia&quot;&gt;注意力聚焦&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#385be5, #ededed);" vertex="1" parent="1">
           <mxGeometry x="-403" y="1266.75" width="109" height="47.25" as="geometry" />
@@ -323,8 +323,8 @@
         <mxCell id="hegEyA6A5dteqGJDnN1d-34" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#385BE5;" vertex="1" parent="1">
           <mxGeometry x="-170" y="1200" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="hegEyA6A5dteqGJDnN1d-35" value="可学习变换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff3333, #ededed);labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-291.5" y="1122" width="77" height="30" as="geometry" />
+        <mxCell id="hegEyA6A5dteqGJDnN1d-35" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px;&quot;&gt;可学习变换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff3333, #ededed);labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-291.5" y="1122" width="165.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hegEyA6A5dteqGJDnN1d-37" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;自适应四边形窗口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff3333, #ededed);labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-24" y="1197" width="210" height="70" as="geometry" />
