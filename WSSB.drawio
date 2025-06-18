@@ -339,6 +339,9 @@
         <mxCell id="MPHYXaOOxjWKusfsDan6-6" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;H/4*W/4*48&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="153" y="588" width="185" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="MPHYXaOOxjWKusfsDan6-7" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;H/16*W/16*128&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345.63" y="552.5" width="185" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
